@@ -3,7 +3,7 @@ layout: default
 ---
 
 
-| Website                   | Description                                                                |
+| Resource                   | Description                                                                |
 |---------------------------|----------------------------------------------------------------------------|
 | [BitcoinQnA](https://www.bitcoinqna.com/)               | Simple Q+A to get started with Bitcoin basics                              |
 | [no-KYC only](https://www.nokyconly.com/)               | Explainer on the risks of purchasing bitcoin via KYC routes                |
