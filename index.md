@@ -31,7 +31,7 @@ layout: default
 
 *   [Twitter](https://twitter.com/BitcoinQ_A)
 *   [Telegram](https://t.me/BitcoinQnA)
-*   [Email](bitcoinqna@protonmail.com)
+*   [Email](mailto:bitcoinqna@protonmail.com)
 
 
 If you would like to support my work, please click [here](https://www.bitcoinqna.com/donations).
