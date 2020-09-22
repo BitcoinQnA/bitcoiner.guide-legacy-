@@ -11,7 +11,6 @@ layout: default
 | [Articles](https://www.bitcoinqna.com/articles)                | Collection of articles relating to wallets, nodes and purchasing bitcoin   |
 | [Github](https://github.com/BitcoinQnA)                    | Used for hosting of this page and 'noKYC only'                     |
 
-* * *
 
 <br/>
 
@@ -23,7 +22,6 @@ layout: default
 | [Bit-Buy-Bit #3](https://www.bit-buy-bit.com/podcast-1/episode/1cdf5f46/ep41-bitcoin-podcast-with-bitcoin-qa-lightning)               | Podcast appearance covering the basics of the Lightning Network                |
 | [Bit-Buy-Bit #4](https://www.bit-buy-bit.com/podcast-1/episode/2a64f9e1/ep43-bitcoin-podcast-with-bitcoin-qa-coinjoin)               | Podcast appearance covering the basics of Coinjoin + Samourai Wallet                |
 
-* * *
 
 <br/>
 
