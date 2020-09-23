@@ -29,6 +29,7 @@ layout: default
 
 *   [Twitter](https://twitter.com/BitcoinQ_A)
 *   [Telegram](https://t.me/BitcoinQnA)
+*   [Keybase](https://keybase.io/bitcoinqna)
 *   [Email](mailto:bitcoinqna@protonmail.com)
 
 
