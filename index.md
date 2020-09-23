@@ -32,5 +32,5 @@ layout: default
 *   [Email](mailto:bitcoinqna@protonmail.com)
 
 
-If you would like to support my work, please click [here](https://www.bitcoinqna.com/donations).
+If you would like to support my work, please visit my [donation](https://www.bitcoinqna.com/donations) page.
 
