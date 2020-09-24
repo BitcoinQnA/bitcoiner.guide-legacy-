@@ -10,6 +10,8 @@ As my knowledge has slowly started to grow (I still have a lot to learn), I bega
 
 This page is a single collection of my contributions that I can point people towards when starting out. If you find it valuable, please share it with your peers. 
 
+<br/>
+
 ### Main Resources
 
 | Resource                   | Description                                                                |
@@ -19,6 +21,8 @@ This page is a single collection of my contributions that I can point people tow
 | [Whirlpool Fee  Calculator](https://www.whirlpoolfees.com/) | Tool to help Whirlpool users calculate their fees prior to mixing |
 | [Articles](https://www.bitcoinqna.com/articles)                | Collection of articles relating to wallets, nodes and purchasing bitcoin   |
 | [Github](https://github.com/BitcoinQnA)                    | Used for the hosting of this page and 'noKYC only'                     |
+
+<br/>
 
 
 ### Other Resources
@@ -30,6 +34,8 @@ This page is a single collection of my contributions that I can point people tow
 | [Bit-Buy-Bit #2](https://www.bit-buy-bit.com/podcast-1/episode/1c6e67f7/ep38-bitcoin-podcast-with-bitcoin-qa-nodes)               | Podcast appearance covering the basics of Bitcoin nodes                |
 | [Bit-Buy-Bit #3](https://www.bit-buy-bit.com/podcast-1/episode/1cdf5f46/ep41-bitcoin-podcast-with-bitcoin-qa-lightning)               | Podcast appearance covering the basics of the Lightning Network                |
 | [Bit-Buy-Bit #4](https://www.bit-buy-bit.com/podcast-1/episode/2a64f9e1/ep43-bitcoin-podcast-with-bitcoin-qa-coinjoin)               | Podcast appearance covering the basics of Coinjoin + Samourai Wallet                |
+
+<br/>
 
 
 ### Article List
