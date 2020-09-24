@@ -23,7 +23,7 @@ This page is a single collection of my contributions that I can point people tow
 
 ### Other Resources
 
-| Other Resources                   | Description                                                                |
+| Resource                   | Description                                                                |
 |---------------------------|----------------------------------------------------------------------------|
 | [Once BITten](https://anchor.fm/daniel-prince6/episodes/BitcoinQ_A---Beginners-Or-Refreshers-Guide-To-Bitcoin-eguivq)               | Podcast appearance covering the beginners guide to Bitcoin                               |
 | [Bit-Buy-Bit #1](https://www.bit-buy-bit.com/podcast-1/episode/26df4d37/ep35-bitcoin-podcast-with-itcoin-qa)               | Podcast appearance covering the basics of Bitcoin wallets                |
