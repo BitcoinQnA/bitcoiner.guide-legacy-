@@ -34,7 +34,7 @@ This page is a single collection of my contributions that I can point people tow
 
 ### Article List
 
-| Article Name        | Category | Description                        |
+| Name        | Category | Description                        |
 |---------------------|----------|------------------------------------|
 | [Samourai Wallet 101](https://www.bitcoinqna.com/post/samourai-101) | Wallets  | Basic explainer of Samourai Wallet |
 | [OpenDime 101](https://www.bitcoinqna.com/post/opendime-101)                  | Wallets          | Basic explainer on setting up and using an Open Dime                                   
