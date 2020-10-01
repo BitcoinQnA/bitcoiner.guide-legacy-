@@ -51,6 +51,7 @@ This page is a single collection of my contributions that I can point people tow
 | [Blue Wallet 101](https://www.bitcoinqna.com/post/bluewallet-101)                    | Wallets          | Basic explainer on setting up and using Blue Wallet |
 | [Sentinel 101](https://www.bitcoinqna.com/post/sentinel-101)                    | Wallets         | Basic explainer on setting up and using Sentinel 'watch only' wallet      |
 |  [Sparrow Wallet 101](https://www.bitcoinqna.com/post/sparrow-wallet-101)                   | Wallets          | Basic explainer on setting up and using Sparrow desktop wallet           |
+|  [Specter Desktop 101](https://www.bitcoinqna.com/post/specter-desktop-101)                   | Wallets          | Basic explainer on setting up and using Specter desktop wallet           |
 |  [myNode 101](https://www.bitcoinqna.com/post/mynode-features-101)                   | Nodes          | Feature breakdown of myNode                          |
 |  [RoninDojo 101](https://www.bitcoinqna.com/post/ronindojo-101)                   | Nodes          | Feature breakdown of RoninDojo                          |
 |  [Migrating your Samourai Wallet to RoninDojo](https://www.bitcoinqna.com/post/connecting-or-migrating-your-samourai-wallet-to-ronindojo)                   | Nodes         | Connect or migrating Samourai Wallet to RoninDojo guide                                  |
