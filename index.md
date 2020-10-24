@@ -16,13 +16,13 @@ This page is a single collection of my contributions that I can point people tow
 
 | Resource                   | Description                                                                |
 |---------------------------|----------------------------------------------------------------------------|
-| [BitcoinQnA](https://www.bitcoinqna.com/)               | Simple Q+A to get started with Bitcoin basics                              |
-| [no-KYC only](https://bitcoinqna.github.io/noKYConly/)  | Explainer on the risks of purchasing bitcoin via KYC routes            |
+| [BitcoinQnA](https://www.bitcoinqna.com/)               | Simple Q+A to get started with Bitcoin basics                  |
 | [Bitcoin Privacy Guide](https://bitcoinprivacy.guide/)  | Guide to help Bitcoiners become more privacy focused           |
-| [Bitcoin Graphics](https://bitcoingraphics.page/)       | Graphical Bitcoin Explainers           |
+| [Bitcoin Graphics](https://bitcoingraphics.page/)       | Graphical Bitcoin Explainers                                   |
+| [no-KYC only](https://bitcoinqna.github.io/noKYConly/)  | Explainer on the risks of purchasing bitcoin via KYC routes    |
 | [Whirlpool Fee  Calculator](https://www.whirlpoolfees.com/) | Tool to help Whirlpool users calculate their fees prior to mixing |
-| [Articles](https://www.bitcoinqna.com/articles)                | Collection of articles relating to wallets, nodes and purchasing bitcoin   |
-| [Github](https://github.com/BitcoinQnA)                    | Used for the hosting of this page, 'Bitcoin Privacy Guide' and  'no-KYC only'  |
+| [Articles](https://www.bitcoinqna.com/articles)             | Collection of articles relating to wallets, nodes and purchasing bitcoin   |
+| [Github](https://github.com/BitcoinQnA)                     | Used for the creation + hosting of this page, Bitcoin Privacy Guide, Bitcoin Graphics and no-KYC only  |
 
 <br/>
 
