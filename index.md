@@ -4,11 +4,9 @@ layout: default
 
 ### About
 
-I’ve been in the so called ‘Crypto Space’ since the 2017 bull run. Back then I was clueless and spent far too much money on things that, let’s say…weren’t Bitcoin. In the 3 years that have passed, it’s fair to say that I’ve become well and truly coin monogamous. Bitcoin has me hooked and every day is a quest to stay up to date, learn about the latest developments, listen to the latest podcast or read the latest article.
+Just your average Joe with a 9-5 job and a passion for learning about Bitcoin. As my knowledge increases I try to give back through education. I am not a programmer or developer, nor do I have any prior technical experience. I have been fortunate enough to speak regularly with some smart and generous people who help me understand these complex topics, which I then try to present in an approachable way for others to learn.
 
-As my knowledge has slowly started to grow (I still have a lot to learn), I began to try and give back through education. I am not a programmer or developer, nor do I have any prior technical experience. I have been fortunate enough to speak regularly with some smart and generous people who help me understand these complex topics, which I then try to present in an approachable way for others to learn.
-
-This page is a single collection of my contributions that I can point people towards when starting out. If you find it valuable, please share it with your peers. 
+This page is a single collection of my contributions that I can point people towards when starting out. If you find it valuable, please share it with your peers.
 
 <br/>
 
@@ -23,7 +21,7 @@ This page is a single collection of my contributions that I can point people tow
 | [no-KYC only](https://bitcoinqna.github.io/noKYConly/)  | Explainer on the risks of purchasing bitcoin via KYC routes    |
 | [Whirlpool Fee  Calculator](https://www.whirlpoolfees.com/) | Tool to help Whirlpool users calculate their fees prior to mixing |
 | [Articles](https://www.bitcoinqna.com/articles)             | Collection of articles relating to wallets, nodes and purchasing bitcoin   |
-| [Github](https://github.com/BitcoinQnA)                     | Used for the creation + hosting of this page, Bitcoin Privacy Guide, Bitcoin Graphics and no-KYC only  |
+| [Github](https://github.com/BitcoinQnA)                     | Used for the creation and hosting of this page and most of the sites listed above  |
 
 <br/>
 
