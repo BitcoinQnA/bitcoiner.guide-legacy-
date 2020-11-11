@@ -12,17 +12,18 @@ This page is a single collection of my contributions that I can point people tow
 
 ### Main Resources
 
-| Resource                   | Description                                                                |
-|---------------------------|----------------------------------------------------------------------------|
-| [BitcoinQnA](https://www.bitcoinqna.com/)               | Simple Q+A to get started with Bitcoin basics                  |
-| [Bitcoin Privacy Guide](https://bitcoinprivacy.guide/)  | Guide to help Bitcoiners become more privacy focused           |
-| [Bitcoin Graphics](https://bitcoingraphics.page/)       | Graphical Bitcoin Explainers                                   |
-| [Bitcoin Node Guide](https://node.guide/)               | Guide to help Bitcoiners explore the different node options                  |
-| [no-KYC only](https://bitcoinqna.github.io/noKYConly/)  | Explainer on the risks of purchasing bitcoin via KYC routes    |
-| [Verify.Supply](https://verify.supply/)                 | Simple guide to help Bitcoiners audit the current supply of bitcoin |
-| [Whirlpool Fee  Calculator](https://www.whirlpoolfees.com/) | Tool to help Whirlpool users calculate their fees prior to mixing |
-| [Articles](https://www.bitcoinqna.com/articles)             | Collection of articles relating to wallets, nodes and purchasing bitcoin   |
-| [Github](https://github.com/BitcoinQnA)                     | Used for the creation and hosting of this page and most of the sites listed above  |
+| Resource                                                   | Description                                                                        |
+|------------------------------------------------------------|------------------------------------------------------------------------------------|
+| [BitcoinQnA](https://www.bitcoinqna.com/)                  | Simple Q+A to get started with Bitcoin basics                                      |
+| [Bitcoin Privacy Guide](https://bitcoinprivacy.guide/)     | Guide to help Bitcoiners become more privacy focused                               |
+| [Bitcoin Graphics](https://bitcoingraphics.page/)          | Graphical Bitcoin Explainers                                                       |
+| [Bitcoin Node Guide](https://node.guide/)                  | Guide to help Bitcoiners explore the different node options                        |
+| [Bitcoin Wallet Guide](https://bitcoinwallet.guide/)       | Guide to help Bitcoiners explore the different wallet options                      |
+| [no-KYC only](https://bitcoinqna.github.io/noKYConly/)     | Explainer on the risks of purchasing bitcoin via KYC routes                        |
+| [Verify.Supply](https://verify.supply/)                    | Simple guide to help Bitcoiners audit the current supply of bitcoin                |
+| [Whirlpool Fee Calculator](https://www.whirlpoolfees.com/) | Tool to help Whirlpool users calculate their fees prior to mixing                  |
+| [Articles](https://www.bitcoinqna.com/articles)            | Collection of articles relating to wallets, nodes and purchasing bitcoin           |
+| [Github](https://github.com/BitcoinQnA)                    | Used for the creation and hosting of this page and most of the sites listed above  |
 
 <br/>
 
