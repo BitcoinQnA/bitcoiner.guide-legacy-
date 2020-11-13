@@ -2,6 +2,7 @@
 layout: default
 ---
 
+```
 -----BEGIN PGP PUBLIC KEY BLOCK-----
 
 mQGNBF+u5YMBDADmtBWYPTxQSFNHG9p/5uLaphdcBBbkY8thrbbJUl24hR9bfzB6
@@ -41,5 +42,5 @@ YzEqFH1o5uelPVY7KjGI23BT/q0kMatyv3QA5OHpaut8dhyjmtDu5vPkbGXUoAkO
 tIzdF7gm49UclLVFpqo+AtJoUYaHemohA+eW25F2sOMIFH4JYaJAn9rBpF9ep4Co
 PIONVZGmlYt/UAE=
 =IV1M
-
 -----END PGP PUBLIC KEY BLOCK-----
+```
