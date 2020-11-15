@@ -78,6 +78,10 @@ This page is a single collection of my contributions that I can point people tow
 *   [Email](mailto:bitcoinqna@protonmail.com)
 *   [PGP](https://getbitcoin.help/pgp)
 
+### Support
 
-If you would like to support my work, please visit my [donation](https://www.bitcoinqna.com/donations) page.
+*  [BTCPay](https://btcpayjungle.com/apps/3CJnSM5L77XEurAMxdP9aZrEnu13/pos)
+*  [Lightning](https://tippin.me/@BitcoinQ_A)
+*  [PayNym](https://paynym.is/+BQA)
+
 
