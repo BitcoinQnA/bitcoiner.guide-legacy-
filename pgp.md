@@ -2,6 +2,9 @@
 layout: default
 ---
 
+![bitcoinerheader](https://raw.githubusercontent.com/BitcoinQnA/bitcoiner.guide/master/assets/images/BDG.png)
+
+
 ```
 -----BEGIN PGP PUBLIC KEY BLOCK-----
 
