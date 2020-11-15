@@ -2,8 +2,6 @@
 layout: default
 ---
 
-![header](https://raw.githubusercontent.com/BitcoinQnA/GetBitcoin.Help/master/assets/images/GetBitcoin.Help(2).png)
-
 ### About
 
 Just your average Joe with a 9-5 job and a passion for learning about Bitcoin. As my knowledge increases I try to give back through education. I am not a programmer or developer, nor do I have any prior technical experience. I have been fortunate enough to speak regularly with some smart and generous people who help me understand these complex topics, which I then try to present in an approachable way for others to learn.
