@@ -76,7 +76,7 @@ This page is a single collection of my contributions that I can point people tow
 *   [Telegram](https://t.me/BitcoinQnA)
 *   [Keybase](https://keybase.io/bitcoinqna)
 *   [Email](mailto:bitcoinqna@protonmail.com)
-*   [PGP](https://getbitcoin.help/pgp)
+*   [PGP](https://bitcoiner.guide/pgp)
 
 ### Support
 
