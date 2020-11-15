@@ -2,6 +2,10 @@
 layout: default
 ---
 
+<img src="https://raw.githubusercontent.com/BitcoinQnA/bitcoiner.guide/master/assets/images/BDG.png" class=responsive width="700" height="220" maxheight="500">
+
+<br/>
+
 ### About
 
 Just your average Joe with a 9-5 job and a passion for learning about Bitcoin. As my knowledge increases I try to give back through education. I am not a programmer or developer, nor do I have any prior technical experience. I have been fortunate enough to speak regularly with some smart and generous people who help me understand these complex topics, which I then try to present in an approachable way for others to learn.
