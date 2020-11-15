@@ -2,7 +2,7 @@
 layout: default
 ---
 
-![bitcoinerheader](https://raw.githubusercontent.com/BitcoinQnA/bitcoiner.guide/master/assets/images/BDG.png)
+[![bitcoinerheader](https://raw.githubusercontent.com/BitcoinQnA/bitcoiner.guide/master/assets/images/BDG.png)](https://bitcoiner.guide/)
 
 
 ```
