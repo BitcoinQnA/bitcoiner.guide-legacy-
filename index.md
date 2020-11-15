@@ -2,9 +2,8 @@
 layout: default
 ---
 
-<img src="https://raw.githubusercontent.com/BitcoinQnA/bitcoiner.guide/master/assets/images/BDG.png" class=responsive width="700" height="220" maxheight="500">
+![bitcoinerheader](https://raw.githubusercontent.com/BitcoinQnA/bitcoiner.guide/master/assets/images/BDG.png)
 
-<br/>
 
 ### About
 
