@@ -74,7 +74,7 @@ This page is a single collection of my contributions that I can point people tow
 
 ### Support
 
-If you have found my contributions valuable, sats are greatly received.
+If you have found my contributions valuable, sats are gratefully received.
 
 *  [BTCPay](https://btcpayjungle.com/apps/3CJnSM5L77XEurAMxdP9aZrEnu13/pos)
 *  [Lightning](https://tippin.me/@BitcoinQ_A)
