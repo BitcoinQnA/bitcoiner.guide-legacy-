@@ -21,6 +21,7 @@ This page is a single collection of my contributions that I can point people tow
 | [Bitcoin Graphics](https://bitcoingraphics.page/)          | Graphical Bitcoin Explainers                                                       |
 | [Bitcoin Node Guide](https://node.guide/)                  | Guide to help Bitcoiners explore the different node options                        |
 | [Bitcoin Wallet Guide](https://bitcoinwallet.guide/)       | Guide to help Bitcoiners explore the different wallet options                      |
+| [Lightning Network Guide](https://ln.guide/)               | A basic introduction to the Lightning Network                                      |
 | [no-KYC only](https://bitcoinqna.github.io/noKYConly/)     | Explainer on the risks of purchasing bitcoin via KYC routes                        |
 | [Verify.Supply](https://verify.supply/)                    | Simple guide to help Bitcoiners audit the current supply of bitcoin                |
 | [Whirlpool Fee Calculator](https://www.whirlpoolfees.com/) | Tool to help Whirlpool users calculate their fees prior to mixing                  |
