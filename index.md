@@ -4,8 +4,6 @@ layout: default
 
 [![bitcoinerheader](https://raw.githubusercontent.com/BitcoinQnA/bitcoiner.guide/master/assets/images/BDG1.png)](https://bitcoiner.guide/)
 
-### About
-
 Just your average Joe with a 9-5 job and a passion for learning about Bitcoin. As my knowledge increases I try to give back through education. I am not a programmer or developer, nor do I have any prior technical experience. I have been fortunate enough to speak regularly with some smart and generous people who help me understand these complex topics, which I then try to present in an approachable way for others to learn.
 
 This page is a single collection of my contributions that I can point people towards when starting out. If you find it valuable, please share it with your peers.
