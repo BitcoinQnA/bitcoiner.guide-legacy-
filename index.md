@@ -75,8 +75,8 @@ This page is a single collection of my contributions that I can point people tow
 
 If you have found my contributions valuable, sats are gratefully received.
 
-*  [BTCPay](https://btcpayjungle.com/apps/3CJnSM5L77XEurAMxdP9aZrEnu13/pos)
-*  [Lightning](https://tippin.me/@BitcoinQ_A)
+*  [BTCPay](https://bqa.duckdns.org:20486/apps/96ZvtoJQr9bz5QyeDoUfhkmNTLZ/pos)
+*  [Tippin.Me](https://tippin.me/@BitcoinQ_A)
 *  [PayNym](https://paynym.is/+BQA)
 
 ### Get in touch
