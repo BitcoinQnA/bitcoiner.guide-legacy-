@@ -80,7 +80,7 @@ If you have found my contributions valuable, sats are gratefully received.
 *  [Tippin.Me](https://tippin.me/@BitcoinQ_A)
 *  [PayNym](https://paynym.is/+BQA)
 
-### Get in touch
+### Contact
 
 Feel free to reach out about anything, I am by no means an expert but I will always support those who are keen to learn.
 
