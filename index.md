@@ -39,6 +39,9 @@ This page is a single collection of my contributions that I can point people tow
 | [Bit-Buy-Bit #3](https://www.bit-buy-bit.com/podcast-1/episode/1cdf5f46/ep41-bitcoin-podcast-with-bitcoin-qa-lightning)               | Podcast appearance covering the basics of the Lightning Network                |
 | [Bit-Buy-Bit #4](https://www.bit-buy-bit.com/podcast-1/episode/2a64f9e1/ep43-bitcoin-podcast-with-bitcoin-qa-coinjoin)               | Podcast appearance covering the basics of Coinjoin + Samourai Wallet                |
 | [Satoshi en Venezuela](https://www.youtube.com/watch?v=QkNxSmdtNNs&feature=youtu.be)               | Podcast appearance covering privacy, Bitcoin myths and common mistakes         |
+| [Citadel Dispatch](https://youtu.be/9t8WsT9NpUU) | Podcast appearance covering privacy, noKYC and nodes  |
+
+
 
 <br/>
 
