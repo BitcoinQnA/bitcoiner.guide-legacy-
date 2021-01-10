@@ -71,7 +71,8 @@ This page is a single collection of my contributions that I can point people tow
 |  [10 Steps To Your First no-KYC Bitcoin](https://www.bitcoinqna.com/post/10-steps-to-your-first-non-kyc-bitcoin)  | Getting Bitcoin         | Guide for purchasing bitcoin on Bisq                                   |
 |  [10 Steps To Your First no-KYC Bitcoin (Hodl Hodl)](https://www.bitcoinqna.com/post/10-steps-to-your-first-non-kyc-bitcoin-hodlhodl-edition)                   | Getting Bitcoin         | Guide for purchasing bitcoin on Hodl Hodl                                   |
 |  [Creating A Buy Offer On  Hodl Hodl](https://www.bitcoinqna.com/post/creating-a-buy-offer-on-hodl-hodl)  | Getting Bitcoin         |  Guide for creating a buy offer using Hodl Hodl                                  |
-|  [10 ways to lose your bitcoin](https://www.bitcoinqna.com/post/10-ways-to-lose-your-bitcoin)  | Security |  Tips for newcomers to avoid losing their bitcoin                             |
+|  [10 ways to lose your bitcoin](https://www.bitcoinqna.com/post/10-ways-to-lose-your-bitcoin) | Security | Tips for newcomers to avoid losing their bitcoin | 
+|  [Verifying Software 101](https://www.bitcoinqna.com/post/verifying-software-101) | Security |  Guide to help users verify the software they download |
 
 <br/>
 
