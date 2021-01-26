@@ -17,7 +17,7 @@ This page is a single collection of my contributions that I can point people tow
 | [BitcoinQnA](https://www.bitcoinqna.com/)                  | Simple Q+A to get started with Bitcoin basics                                      |
 | [Bitcoin Privacy Guide](https://bitcoinprivacy.guide/)     | Guide to help Bitcoiners become more privacy focused                               |
 | [Bitcoin Graphics](https://bitcoingraphics.page/)          | Graphical Bitcoin Explainers                                                       |
-| [Bitcoin Monthly](https://bitcoinmonthly.news/)            | An index of the main news and developments from the last month in Bitcoin          |
+| [Bitcoin Monthly](https://bitcoinmonthly.news/)            | An index of the main news and developments from the last month                     |
 | [Bitcoin Node Guide](https://node.guide/)                  | Guide to help Bitcoiners explore the different node options                        |
 | [Bitcoin Wallet Guide](https://bitcoinwallet.guide/)       | Guide to help Bitcoiners explore the different wallet options                      |
 | [Bitcoin Whitepaper](https://btcwhitepaper.com/)           | A copy of the Bitcoin Whitepaper by Satoshi Nakamoto                               |
