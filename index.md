@@ -94,6 +94,8 @@ Feel free to reach out about anything, I am by no means an expert but I will alw
 *   [Twitter](https://twitter.com/BitcoinQ_A)
 *   [Telegram](https://t.me/BitcoinQnA)
 *   [Keybase](https://keybase.io/bitcoinqna)
+*   [Matrix](https://matrix.to/#/@qna:bitcoiner.chat)
+*   [Mastodon](https://social.bitcoiner.guide/web/accounts/1#)
 *   [Email](mailto:bitcoinqna@tutanota.com)
 *   [PGP](https://bitcoiner.guide/pgp)
 
